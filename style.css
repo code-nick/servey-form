@@ -23,7 +23,7 @@ body{
     padding: 10px;
 }
 .input-field{
-    margin-left: 40%;
+    text-align: center;
     padding: 10px;
 }
 .section-option{
@@ -41,10 +41,10 @@ body{
     margin-left: 20%;
 }
 .section-option-2{
-    padding: 20px;
-    margin-left: 2%;
+    margin-left: 14px;
+
 }
 
 .section-option-2 select{
-    padding: 8px;
+    padding: 4px;
 }
