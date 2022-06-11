@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color:rgb(83, 248, 221);
+}
+.main-wrapper{
+   text-align: center;
+   align-items: center;
+   padding: 4px;
+}
+.From {
+    width: 80%;
+    background-color: rgb(252, 250, 250);
+    margin-left: 10%;
+    border: 1px solid black;
+}
+.From .text{
+    text-align: center;
+    padding: 10px;
+}
+.input-field{
+    margin-left: 40%;
+    padding: 10px;
+}
+.section-option{
+    margin-left: 9%;
+    padding: 10px;
+}
+.section-option select{
+    padding: 8px;
+}
+.cheack{
+    margin-left: 46%;
+    padding: 10px;
+}
+.text-radio{
+    margin-left: 20%;
+}
+.section-option-2{
+    padding: 20px;
+    margin-left: 2%;
+}
+
+.section-option-2 select{
+    padding: 8px;
+}
